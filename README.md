@@ -1,5 +1,4 @@
-We are DAMAProgramming, a two person group that makes apps for our high school.
-In the future, we hope to expand our horizons to not just Node.js apps, but also advanced C/C++ applications for games, simulations, and more.
+We're DAMAProgramming, run by Ethan and Hunter. We are highschool students looking to get better at programming in general, from web development to full software applications.
 
 <!---
 DAMAProgramming/DAMAProgramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
